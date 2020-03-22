@@ -20,7 +20,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            React
+            React Redux TS
           </a>
           <span>, </span>
           <a
